@@ -89,6 +89,4 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 </table>
 
 ###
-<img align='right' src="https://giphy.com/gifs/i-will-go-down-with-this-ship-obnoxious-crisscolfering-had-599-followers-when-made-thi-QRAI74E7B9erm.gif" width="230">
----
-<iframe src="https://giphy.com/embed/QRAI74E7B9erm" width="361" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i-will-go-down-with-this-ship-obnoxious-crisscolfering-had-599-followers-when-made-thi-QRAI74E7B9erm">via GIPHY</a></p>
+<img align='right' src="https://media.giphy.com/media/QRAI74E7B9erm/giphy.gif" width="230">
