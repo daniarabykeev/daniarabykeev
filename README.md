@@ -70,9 +70,8 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 | stepik.org/Web technologies: entry level                    | 01/2023 - 01/2023 |
 | app.rs.school/JavaScript/Front-end 2023/ Q1                    | 03/2023 - xx|
 ---
-
-### 💻 Codewars:
 <img align='right' src="https://media.giphy.com/media/QRAI74E7B9erm/giphy.gif" width="320">
+### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/daniarabykeev/badges/large)
 
 ### ⚙️ GitHub statistics:
