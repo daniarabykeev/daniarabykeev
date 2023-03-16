@@ -60,6 +60,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 
 | Courses                                                           | Date              |
 | ----------------------------------------------------------------| :---------------: |
+| makers.kg/JavaScript/React                      | 02/2022 - 05/2022 |
 | netology.ru/Start in programming.                               | 02/2022 - 03/2022 |
 | stepik.org/Fundamentals of programming in C. Tasks.                | 02/2022 - 03/2022 |
 | netology.ru/Website layout basics                                | 02/2022 - 03/2022 |
@@ -67,8 +68,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 | stepik.org/Web development for beginners: HTML & CSS            | 02/2022 - 03/2022 |
 | stepik.org/JavaScript for beginners                            | 01/2023 - 01/2023 |
 | stepik.org/Web technologies: entry level                    | 01/2023 - 01/2023 |
-| makers.kg/Java-Script/React                      | 02/2022 - 05/2022 |
-
+| app.rs.school/JavaScript/Front-end 2023/ Q1                    | 03/2023 - xx|
 ---
 #### 
 
