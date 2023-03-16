@@ -69,6 +69,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 | stepik.org/JavaScript for beginners                            | 01/2023 - 01/2023 |
 | stepik.org/Web technologies: entry level                    | 01/2023 - 01/2023 |
 | app.rs.school/JavaScript/Front-end 2023/ Q1                    | 03/2023 - xx|
+<img align='right' src="https://media.giphy.com/media/QRAI74E7B9erm/giphy.gif" width="320">
 ---
 
 ### 💻 Codewars:
@@ -89,4 +90,4 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 </table>
 
 ###
-<img align='right' src="https://media.giphy.com/media/QRAI74E7B9erm/giphy.gif" width="500">
+<img align='right' src="https://media.giphy.com/media/QRAI74E7B9erm/giphy.gif" width="320">
