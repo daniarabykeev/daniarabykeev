@@ -83,7 +83,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=daniarabykeev&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniarabykeev&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
