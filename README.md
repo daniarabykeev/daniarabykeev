@@ -41,7 +41,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
@@ -56,12 +56,19 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 
 ---
 
+### 💻 Completed courses:
 
+| Courses                                                           | Date              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Start in programming.                               | 02/2022 - 03/2022 |
+| stepik.org/Fundamentals of programming in C. Tasks.                | 02/2022 - 03/2022 |
+| netology.ru/Website layout basics                                | 02/2022 - 03/2022 |
+| netology.ru/First steps in JavaScript: creating a website and an application | 02/2022 - 03/2022 |
+| stepik.org/Web development for beginners: HTML & CSS            | 02/2022 - 03/2022 |
+| stepik.org/JavaScript for beginners                            | 01/2023 - 01/2023 |
+| stepik.org/Web technologies: entry level                    | 01/2023 - 01/2023 |
+| makers.kg/Java-Script/React                      | 02/2022 - 05/2022 |
 
-
-<iframe src="https://giphy.com/embed/QRAI74E7B9erm" width="361" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i-will-go-down-with-this-ship-obnoxious-crisscolfering-had-599-followers-when-made-thi-QRAI74E7B9erm"></a></p>
+---
 #### 
 
-
-
-Skills: VUE JS / REACT / JS / HTML / CSS
