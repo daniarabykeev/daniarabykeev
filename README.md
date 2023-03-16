@@ -82,7 +82,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 
 ![codewars](https://www.codewars.com/users/daniarabykeev/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
