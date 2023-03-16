@@ -90,4 +90,4 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 ---
 ### 
 
-<img align='right' src="https://media.giphy.com/media/QRAI74E7B9erm/giphy.gif" width="320">                                                              .
+   <img align='right' src="https://media.giphy.com/media/QRAI74E7B9erm/giphy.gif" width="320">
