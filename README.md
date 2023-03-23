@@ -7,7 +7,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 
 - :seedling: Сonstantly learning new technologies
 
-- :zap: I want to learn a new profession and find a job.
+- :zap: Coding is my life.
 
 - :mailbox: If you'd like to get in touch with me, you can reach me at: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abykeevs) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:daniarabykeev@gmail.com)
 
