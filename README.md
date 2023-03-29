@@ -16,7 +16,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%D1%80-%D0%B0%D0%B1%D1%8B%D0%BA%D0%B5%D0%B5%D0%B2-b5b9b9234/" target="_blank">
+    <a href="https://www.linkedin.com/in/daniiar-abykeev-b5b9b9234/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/abykeevs" target="_blank">
