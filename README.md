@@ -3,7 +3,7 @@
 ### :man_technologist: About me:
 I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into the IT industry began with the Makers Bootcamp programming school.
 
-- :telescope: I am currently studying at RS-School - Front-End 2023 Q1.
+- :telescope: I am currently working at <a href="https://mega24.kg/" target="_blank">MEGA</a> company.
 
 - :seedling: Сonstantly learning new technologies
 
