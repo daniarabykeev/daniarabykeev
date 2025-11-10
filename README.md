@@ -32,7 +32,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 ### 💻 Technologies:
 
 <div>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="typescript" alt="typescript"/>&nbsp;
 </div>
 
 ---
