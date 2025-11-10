@@ -22,7 +22,7 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
     <a href="https://t.me/abykeev_d" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://www.instagram.com/____abykeev/" target="_blank">
+    <a href="https://www.instagram.com/0044iz/" target="_blank">
       <img src="https://user-images.githubusercontent.com/96993302/225588302-0d3ab8e1-af99-46f7-a451-04d1ae0f2b69.png" width="40" height="40" alt="Instagram"/>
     </a>
   </div>
