@@ -2,29 +2,22 @@
   <img src="https://github.com/daniarabykeev/daniarabykeev/blob/main/banner.png" alt="👨‍💻 Daniar Abykeev — Frontend Developer | React | TypeScript" width="100%" />
 </p>
 
-# 👋, Hey! Nice to see you! 
+# 👋 Hey, I'm Daniar Abykeev
+### Frontend Developer • React • TypeScript • Bishkek 🇰🇬 
 ---
-### :man_technologist: About me:
-I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into the IT industry began with the Makers Bootcamp programming school.
+### 👨‍💻 About Me
+- 💼 Frontend Developer at [MEGA](https://mega24.kg)
+- 🌱 Learning **NestJS** & **DevOps** (Docker, Ansible)
+- ⚡ Passionate about building scalable apps and learning new technologies
+- 💬 Reach me via [Telegram](https://t.me/abykeev_d) or [Gmail](mailto:daniarabykeev@gmail.com)
 
-- :telescope: I am currently working at <a href="https://mega24.kg/" target="_blank">MEGA</a> company.
+### 🚀 Featured Projects
 
-- :seedling: Сonstantly learning new technologies
-
-- :zap: Coding is my life.
-
-- :mailbox: If you'd like to get in touch with me, you can reach me at: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abykeev_d) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:daniarabykeev@gmail.com)
-
-- ### 🔭 Currently working on
-- A cross-platform health monitoring app with React Native and Node.js
-
-### 🌱 Currently learning
-- DevOps basics (Docker, Ansible)
-- Backend development with NestJS
-
-### 🎯 Goals for 2025
-- Build and deploy my first fullstack SaaS project
-- Get DevOps certification
+| Project | Description | Tech stack |
+|----------|--------------|-------------|
+| [**Health Monitoring App**](#) | Cross-platform app for tracking health metrics and connecting with doctors | React Native, Node.js |
+| [**Personal Portfolio**](#) | My responsive portfolio site built with Next.js | Next.js, Tailwind |
+| [**JS Mini Projects**](#) | Small web apps and experiments | React, Vite, TypeScript |
 
 ---
 
@@ -120,18 +113,19 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/daniarabykeev/badges/large)
 
-### ⚙️ GitHub statistics:
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daniarabykeev&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=daniarabykeev&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniarabykeev&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+### ⚙️ GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daniarabykeev&theme=tokyonight" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniarabykeev&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniarabykeev&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
 
 ---
 ### 
