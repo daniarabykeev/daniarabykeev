@@ -15,6 +15,17 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 
 - :mailbox: If you'd like to get in touch with me, you can reach me at: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abykeev_d) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:daniarabykeev@gmail.com)
 
+- ### 🔭 Currently working on
+- A cross-platform health monitoring app with React Native and Node.js
+
+### 🌱 Currently learning
+- DevOps basics (Docker, Ansible)
+- Backend development with NestJS
+
+### 🎯 Goals for 2025
+- Build and deploy my first fullstack SaaS project
+- Get DevOps certification
+
 ---
 
 ### 🤝 Social media:
