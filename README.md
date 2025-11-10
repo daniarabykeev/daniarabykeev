@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/daniarabykeev/daniarabykeev/blob/main/banner.png" alt="👨‍💻 Daniar Abykeev — Frontend Developer | React | TypeScript" width="100%" />
+</p>
+
 # 👋, Hey! Nice to see you! 
 ---
 ### :man_technologist: About me:
