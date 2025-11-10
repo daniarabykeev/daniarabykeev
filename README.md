@@ -79,6 +79,10 @@ I am Daniar, front-end developer from Bishkek, 🇰🇬 Kyrgyzstan.<img src="htt
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
 </div>
 
 ---
